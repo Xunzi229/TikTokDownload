@@ -141,4 +141,9 @@ readconf.py
 1.py
 test.py
 /refactor
-*.db
+*.db.f2/
+USE_README.md
+.f2/
+scripts/run_f2_douyin.py
+cookies.text
+douyin_users.db
