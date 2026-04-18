@@ -314,11 +314,6 @@ https://user-images.githubusercontent.com/40727745/12c21d55-b629-485a-b904-54d86
 - 项目地址：https://github.com/TikHubIO/
 
 
-![赞赏](https://user-images.githubusercontent.com/40727745/217866800-23980dc1-f3ce-4bc7-b192-518651fef8da.png)
-
-感谢对本项目的支持！如果您觉得这个项目有帮助，欢迎赞助。您可以直接访问我们的 [![Patreon](https://img.shields.io/badge/Patreon-F2-red.svg?style=flat&logo=patreon)](https://www.patreon.com/F2_pypi)
-
-
 ## 📧 联系/Contact
 
 如果有任何问题或者建议，可以通过邮箱联系我：
